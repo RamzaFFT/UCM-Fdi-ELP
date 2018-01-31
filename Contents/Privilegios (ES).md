@@ -84,7 +84,7 @@
         -   mujer el producto, hombres compiten, "el bueno", "el malo"
         -   asesino? hombre por defecto
     
-    -   **Iconos whatsapp**? mujeres doctoras desde 2016: <https://www.elespanol.com/ciencia/tecnologia/20160715/140236456_0.html>
+    -   ¿**Iconos whatsapp**? mujeres doctoras desde 2016: <https://www.elespanol.com/ciencia/tecnologia/20160715/140236456_0.html>
     
     -   **Test Bechdel**: Film test 2 women talking: <https://en.wikipedia.org/wiki/Bechdel_test>
         -   Pelis: <http://www.imdb.com/chart/top>
@@ -115,10 +115,10 @@
 -   ¿Es que son peores en Informática?
     -   Chicas: se las considera mejores programadoras (si ocultan su género): <https://www.theguardian.com/technology/2016/feb/12/women-considered-better-coders-hide-gender-github>
 
--   Contrataciones?
+-   ¿Contrataciones?
     -   Estudio Harvard: <http://wappp.hks.harvard.edu/event/biases-blind-us-how-gender-stereotypes-constrain-opportunities-women-stem>
     -   Sesgo de género en audiciones musicales: <http://scholar.harvard.edu/files/goldin/files/orchestrating_impartiality_the_effect_of_blind_auditions_on_female_musicians.pdf>
-    -   al contratar, imaginemos que nos pueden llegar migrantes, mujeres, minusválidos&#x2026; y estaremos más abiertos
+    -   Al contratar, imaginemos que nos pueden llegar migrantes, mujeres, minusválidos&#x2026; y estaremos más abiertos
         -   Contratación en UK o +, añaden frasecita ++
             -   E.g. Harvard, on Diversity when hiring: <https://cyber.harvard.edu/getinvolved/fellowships/opencall20182019>
 
@@ -139,7 +139,7 @@
     -   Chico no trabaja para cuidar padre enfermo / cuidar casa/niñx
         -   David Bravo lo hace y no se lo creen; si fuera mujer sí
 
--   Ejercicio: Cómo lo hacéis en navidad en vuestras casas?
+-   Ejercicio: ¿Cómo lo hacéis en navidad en vuestras casas?
 
 ## Micromachismos<a id="sec-1-6" name="sec-1-6"></a>
 
@@ -168,10 +168,10 @@
 
 -   Dinámicas de **poder**
     -   profe-alumnx
-    -   si un prof abusa de alumnx, mucho más grave que si alumnx abusa de prof
+    -   si un profesor abusa de un alumnx, mucho más grave que si un alumnx abusa de un profesor
     -   carcelero - preso -> no hay consentimiento
     -   el peso del privilegio/rango
-    -   líder?
+    -   ¿líder?
         -   marimandona (en relación o trabajo)
         -   a quién se habrá follado ésa
         -   calzonazos
@@ -199,7 +199,7 @@
     -   "M >> F y está ok": Machismo
     -   "M == F ya existe": Ignora privilegios
     -   "M >> F y no ok": Apoyado por literatura científica de los últimos 20 años
-    -   "F >> M y no ok": Ficción! Cuidado!
+    -   "F >> M y no ok": ¡Ficción! ¡Cuidado!
         -   "Mujeres gratis en bar? Son el producto!"
 
 -   Ok, somos privilegiados: ¿qué hacer?:
@@ -220,7 +220,7 @@
    -   Uso tech controlar pareja:
         -   Adolescentes whatsapp: <http://adolescentesinviolenciadegenero.com/wp-content/uploads/2014/05/Cartel-notecortes-70x100.jpg>
         -   Tech, control, y parejas: <http://www.eldiario.es/sociedad/control-pareja-violencia-jovenes-espanoles_0_350665513.html>
-   -   Pero qué privilegios tienen los hombres? Estudios
+   -   ¿Pero qué privilegios tienen los hombres? Estudios
         -   <http://www.eldiario.es/zonacritica/privilegios-barbijaputa-efecto_jennifer-john_6_608299185.html>
         -   "Feminist" en G Scholar: <https://scholar.google.com/scholar?q=feminist>
         -   Niños ojos azules/marrones: mejores/peores resultados si se creen mejores/peores <https://vimeo.com/114372847>
